@@ -1,6 +1,10 @@
 # isthatagubby
-is that a gubby?
+## is that a gubby?
 
 Suggested by jay
 
-w/ pygame
+do
+```pip install pygame```
+since it uses pygame
+or use
+```pip install pygame-ce```
