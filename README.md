@@ -1,10 +1,16 @@
 # isthatagubby
 ## is that a gubby?
 
-Suggested by jay
+**Joke game for friends :D**
 
-do
-```pip install pygame```
-since it uses pygame
-or use
-```pip install pygame-ce```
+# You will need to ``pip install`` these to make the script work!
+```
+pip install pygame
+```
+or alternatively, use
+```
+pip install pygame-ce
+```
+
+# How to install?
+**Clone this repository then open your terminal in the project directory and run the command to get all required libraries, after that, you can run python isthatagubby.py in the project directory.**
